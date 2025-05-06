@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @harriscraig
-- 👀 I’m interested in computer science, engineering, robotics, and AI
+- 👀 I’m interested in computer science, engineering, robotics, AI and machine learning
 - 🌱 I’m currently learning machine learning
 - 🤖 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
