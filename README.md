@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @harriscraig
+- 👋 Hi, I’m Craig!
 - 👀 I’m interested in computer science, engineering, robotics, AI and machine learning
 - 🌱 I’m currently learning machine learning
 - 🤖 I’m looking to collaborate on open source projects
