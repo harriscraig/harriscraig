@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Craig's GitHub stats](https://github-stats-extended.vercel.app/api?username=harriscraig)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=harriscraig&size_weight=0.5&count_weight=0.5)
